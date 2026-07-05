@@ -2,26 +2,16 @@
 
 컴퓨터공학 전공 | AI · Data · LLM/RAG · Model Optimization 
 
-⸻
-
 📍 Timeline
+    2021.09 ~ 2023.02 - 상무대 사이버방호실 전산 인프라 운영
+    2024.09 ~ 2025.12 - ISEL Undergraduate Research Intern
+    2025.04 - ICST 2025 Paper Publication & Presentation
+    2025.12 ~ Present - Codeit K-Digital Training AI Bootcamp
+    2026.05 ~ 2026.06 - RAG 기반 공공입찰 RFP 문서 응답 시스템 프로젝트
 
-* 2021.09 ~ 2023.02 - 상무대 사이버방호실 전산 인프라 운영
-* 2024.09 ~ 2025.12 - ISEL Undergraduate Research Intern
-* 2025.04 - ICST 2025 Paper Publication & Presentation
-* 2025.12 ~ Present - Codeit K-Digital Training AI Bootcamp
-* 2026.05 ~ 2026.06 - RAG 기반 공공입찰 RFP 문서 응답 시스템 프로젝트
-
-⸻
 
 🧑🏻‍🔬 Research
-
-Bytecode-based Pre-trained Model
-
-Java Bytecode · Tokenizer · Pre-training · byteT5 · byteBERT
-
-Java bytecode의 구조적 특징을 학습할 수 있는 사전학습 모델을 연구했습니다.
-bytecode를 16진수 시퀀스로 변환하고, JVM instruction과 constant pool 구조를 반영한 tokenizer를 설계했습니다.
+Pre-trained Models for Bytecode Instructions(https://ieeexplore.ieee.org/abstract/document/10989012)
 
 * Java bytecode 전처리 및 16진수 시퀀스 변환
 * JVM 구조를 반영한 tokenizer 설계
@@ -30,38 +20,14 @@ bytecode를 16진수 시퀀스로 변환하고, JVM instruction과 constant pool
 * 입력 표현 방식과 tokenizer 구성에 따른 성능 비교
 * GPT-4o와 비교 실험을 통한 도메인 특화 모델 가능성 분석
 
-⸻
-
 🏃🏻‍♂️ Projects
 
 2026.05 ~ 2026.06 - RFP-RAG System
-
-RAG · LLM · Vector DB · Embedding · Document Parsing
-
-공공입찰 RFP 문서를 기반으로 사용자의 질문에 답변하는 RAG 기반 문서 응답 시스템을 개발했습니다.
-
-* 문서 파싱 및 전처리
-* 문서 청킹 전략 설계
-* 임베딩 생성 및 Vector DB 구축
-* LLM API 연동
-* 검색 기반 답변 생성 파이프라인 구성
-* Git 브랜치 구조 및 협업 규칙 정리
-* 팀원 기능 통합을 위한 입출력 형식 정리
-
-⸻
+공공입찰 RFP 문서를 기반으로 사용자의 질문에 답변하는 RAG 기반 문서 응답 시스템을 개발
 
 2026.04 - Pill Object Detection
-
 Object Detection · Image Dataset · Data Preprocessing
-
 알약 이미지 데이터를 기반으로 객체 탐지 모델을 개발하는 프로젝트를 수행했습니다.
-
-* 이미지 데이터 확인 및 전처리
-* 예외 데이터 분석
-* 객체 탐지 모델 학습 과정 참여
-* Bounding box 기반 탐지 데이터 구성
-* 팀원들과 예외 처리 기준 및 역할 분담 정리
-
 
 
 🗂️ Dataset Experience
@@ -72,60 +38,28 @@ Object Detection · Image Dataset · Data Preprocessing
     공공입찰 RFP 문서, PDF parsing, chunking, embedding, Vector DB
 * Image Dataset
     알약 이미지 데이터, object detection, bounding box, 예외 이미지 분석
-* MNIST Dataset
-    손글씨 숫자 이미지, image classification, ONNX inference, quantization
-
-⸻
 
 🛠️ Tech Stack
-
-Languages
-
-AI / ML
-
-Data / Infra
-
-⸻
-
 🏅 Achievements
+    2025.04 - Paper Publication and Presentation at ICST 2025
+    경북도지사 우수교사상 - 청소년자유학교 학습지도 봉사활동 기여
+    군 복무 전산 인프라 운영 경험 - 상무대 사이버방호실 서버 및 네트워크 운영
 
-* 2025.04 - Paper Publication and Presentation at ICST 2025
-* 경북도지사 우수교사상 - 청소년자유학교 학습지도 봉사활동 기여
-* 군 복무 전산 인프라 운영 경험 - 상무대 사이버방호실 서버 및 네트워크 운영
-
-⸻
 
 🎓 Education
-
 Codeit K-Digital Training AI Bootcamp
-
 2025.12 ~ Present
 
-Python 기반 데이터 분석, 머신러닝, 딥러닝, Docker, Git 협업, RAG 프로젝트를 학습했습니다.
-
-* Python 기초 및 객체지향 프로그래밍
-* Pandas 기반 데이터 분석 및 전처리
-* 머신러닝 및 딥러닝 모델 구현
-* PyTorch 기반 모델 학습
-* Docker 기반 개발 환경 구성
-* Git/GitHub 협업
-* 모델 저장, 양자화, ONNX 변환
-* RAG 기반 문서 응답 시스템 프로젝트
-
-⸻
-
 💡 Interests
+    - AI Service Pipeline
+    - RAG System
+    - LLM Application
+    - Data Preprocessing
+    - Model Optimization
+    - Smart Factory
+    - Industrial AI
+    - MLOps
 
-* AI Service Pipeline
-* RAG System
-* LLM Application
-* Data Preprocessing
-* Model Optimization
-* Smart Factory
-* Industrial AI
-* MLOps
-
-⸻
 
 📫 Contact
 
