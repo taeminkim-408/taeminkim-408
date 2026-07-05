@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Kim Taemin
+# Kim Taemin
 
 컴퓨터공학 전공 | AI · Data · LLM/RAG · Model Optimization
 
