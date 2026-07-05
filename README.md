@@ -89,4 +89,5 @@ AI Service Pipeline · RAG System · LLM Application · Data Preprocessing
 Model Optimization · Smart Factory · Industrial AI · MLOps
 
 ---
-io:  
+## 📁 Portfolio
+
