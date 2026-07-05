@@ -89,9 +89,4 @@ AI Service Pipeline · RAG System · LLM Application · Data Preprocessing
 Model Optimization · Smart Factory · Industrial AI · MLOps
 
 ---
-
-## 📫 Contact
-
-GitHub:  
-Email:  
-Portfolio:  
+io:  
