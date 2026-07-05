@@ -90,4 +90,5 @@ Model Optimization · Smart Factory · Industrial AI · MLOps
 
 ---
 ## 📁 Portfolio
+https://github.com/taeminkim-408/taeminkim-408/blob/main/Portfolio.pdf 
 
