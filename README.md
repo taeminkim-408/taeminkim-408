@@ -70,8 +70,3 @@ Python 기반 데이터 분석, 머신러닝, 딥러닝, Docker, Git 협업, RAG
 AI Service Pipeline · RAG System · LLM Application · Data Preprocessing
 Model Optimization · Smart Factory · Industrial AI · MLOps
 
-📫 Contact
-
-* GitHub:
-* Email:
-* Portfolio:
