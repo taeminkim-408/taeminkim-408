@@ -13,43 +13,23 @@
 * 2026.05 ~ 2026.06 | RAG 기반 공공입찰 RFP 문서 응답 시스템 프로젝트
 
 🧑🏻‍🔬 Research
-
 Pre-trained Models for Bytecode Instructions
 
-Java bytecode의 구조적 특징을 학습할 수 있는 사전학습 모델을 연구했습니다.
-
-* Java bytecode 전처리 및 16진수 시퀀스 변환
-* JVM 구조를 반영한 tokenizer 설계
-* 대규모 bytecode 데이터 파이프라인 구축
-* byteT5, byteBERT 기반 span masking pre-training
-* 입력 표현 방식과 tokenizer 구성에 따른 성능 비교
-* GPT-4o와 비교 실험을 통한 도메인 특화 모델 가능성 분석
-
 🏃🏻‍♂️ Projects
+* RFP-RAG System 2026.05 ~ 2026.06
+** 공공입찰 RFP 문서를 기반으로 사용자의 질문에 답변하는 RAG 기반 문서 응답 시스템을 개발했습니다.
 
-RFP-RAG System 2026.05 ~ 2026.06
-
-공공입찰 RFP 문서를 기반으로 사용자의 질문에 답변하는 RAG 기반 문서 응답 시스템을 개발했습니다.
-
-Pill Object Detection 2026.04
-
-알약 이미지 데이터를 기반으로 객체 탐지 모델을 개발하는 프로젝트를 수행했습니다.
+* Pill Object Detection 2026.04
+**알약 이미지 데이터를 기반으로 객체 탐지 모델을 개발하는 프로젝트를 수행했습니다.
 
 ⸻
 
 🗂️ Dataset Experience
 
-Dataset	Experience
-☕ Bytecode Dataset	Java bytecode, JVM instruction, constant pool, hexadecimal sequence
-📄 RFP Document Dataset	공공입찰 RFP 문서, PDF parsing, chunking, embedding, Vector DB
-💊 Image Dataset	알약 이미지 데이터, object detection, bounding box, 예외 이미지 분석
-
-🛠️ Tech Stack
-
-Category	Stack
-Languages	Python · Java · C · C++
-AI / ML	PyTorch · Hugging Face · ONNX · Machine Learning · Deep Learning
-Data / Infra	Pandas · Docker · Linux · Git · GitHub
+* Dataset	Experience
+* ☕ Bytecode Dataset	Java bytecode, JVM instruction, constant pool, hexadecimal sequence
+* 📄 RFP Document Dataset	공공입찰 RFP 문서, PDF parsing, chunking, embedding, Vector DB
+* 💊 Image Dataset	알약 이미지 데이터, object detection, bounding box, 예외 이미지 분석
 
 🏅 Achievements
 
@@ -60,10 +40,8 @@ Data / Infra	Pandas · Docker · Linux · Git · GitHub
 ⸻
 
 🎓 Education
-
-Codeit K-Digital Training AI Bootcamp 2025.12 ~ Present
-
-Python 기반 데이터 분석, 머신러닝, 딥러닝, Docker, Git 협업, RAG 프로젝트를 학습했습니다.
+* Codeit K-Digital Training AI Bootcamp 2025.12 ~ Present
+* Python 기반 데이터 분석, 머신러닝, 딥러닝, Docker, Git 협업, RAG 프로젝트를 학습했습니다.
 
 💡 Interests
 
